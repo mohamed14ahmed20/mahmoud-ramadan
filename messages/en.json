@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "title": "Mahmoud Ramadan",
+        "description": "Official website of Mr. Mahmoud Ramadan - Businessman and Political Thinker"
+    },
+    "nav": {
+        "home": "Mahmoud Ramadan",
+        "about": "About",
+        "news": "News",
+        "programs": "Articles",
+        "gallery": "Gallery",
+        "videos": "Videos",
+        "contact": "Contact",
+        "back_to_news": "Back to news",
+        "back_to_programs": "Back to articles"
+    },
+    "hero": {
+        "welcome": "Welcome to my official website",
+        "title": "Vision for a Better Future",
+        "subtitle": "Egyptians are the first to the blessings of their country",
+        "cta": "Read More",
+        "contact_cta": "Contact Us"
+    },
+    "sections": {
+        "latest_news": "Latest News",
+        "vision": "Vision for the Future",
+        "gallery": "Photo Gallery",
+        "videos": "Video Library",
+        "view_all_news": "View all news",
+        "view_all_programs": "View all articles",
+        "view_all_gallery": "View all photos",
+        "view_all_videos": "View all videos",
+        "read_more": "Read More",
+        "news_title": "News and Statements",
+        "programs_title": "Articles and Vision",
+        "gallery_title": "Photo Gallery",
+        "gallery_description": "A photo tour of the most important events and meetings",
+        "videos_title": "Video Library"
+    },
+    "about": {
+        "title": "Who is Mahmoud Ramadan?",
+        "summary": "A journey of struggle and success from simple trade to investment and economics, with an ambitious political vision for Egypt's future.",
+        "content": "I progressed in my work, and between periods filled with success and periods of searching for success, my business grew, my capital increased, and my trade diversified into different products. Throughout my practical journey, my way of working changed from a street vendor to selling through a display window to opening a small shop to a trading company, then to an import and export company, then to several diverse companies and investment in the field of agriculture and industrial work.\n\nI got married and God blessed me with four children. After my financial situation stabilized, I decided to return to completing my postgraduate studies and started them in 2010 and obtained a Master's degree in Law in 2012. I did not join any political party and did not belong to any faction. My only affiliation is to Egypt and my only goal is to develop the lives of Egyptians. I expected the January 25 revolution to happen, I was happy with it and participated in it."
+    },
+    "contact": {
+        "title": "Contact Us",
+        "description": "We are happy to receive your inquiries and suggestions. We are here to listen to you and communicate with you permanently.",
+        "email": "Email",
+        "facebook": "Facebook",
+        "facebook_link_text": "Official Campaign Page",
+        "address": "Address",
+        "form": {
+            "title": "Send a direct message",
+            "name": "Name",
+            "name_placeholder": "Full Name",
+            "email": "Email",
+            "email_placeholder": "example@domain.com",
+            "subject": "Subject",
+            "subject_placeholder": "Message Subject",
+            "message": "Message",
+            "message_placeholder": "Write your message here...",
+            "submit": "Send Message"
+        }
+    },
+    "footer": {
+        "quick_links": "Quick Links",
+        "contact_info": "Contact Info",
+        "follow_me": "Follow Me",
+        "rights": "All rights reserved",
+        "designed_by": "Designed and developed by",
+        "privacy_policy": "Privacy Policy",
+        "terms_of_use": "Terms of Use",
+        "toggle_theme": "Toggle theme"
+    },
+    "news_data": {
+        "item1": {
+            "title": "Egyptians: First Candidate for the 2018 Presidential Election",
+            "excerpt": "Businessman Mahmoud Ramadan announced his intention to run for the 2018 presidential election after finalizing his electoral program aimed at pulling Egypt out of crises."
+        },
+        "item2": {
+            "title": "Potential Presidential Candidate Explains Reasons for Running",
+            "excerpt": "Mahmoud Ramadan, a potential presidential candidate, stated that his candidacy stems from a lifelong concern for public affairs and a persistent worry about the reasons behind Egypt's weakness."
+        }
+    },
+    "programs_data": {
+        "item1": {
+            "title": "Egyptians are the First to the Blessings of Their Country",
+            "excerpt": "The goal is to prioritize Egyptian investment while encouraging foreign investment that the Egyptian economy needs.",
+            "content": "The aim is to prioritize Egyptian investment, while also encouraging foreign investment that the Egyptian economy requires and that adds new value."
+        },
+        "item2": {
+            "title": "Egyptian Situation and Economy",
+            "excerpt": "The current state of the Egyptian economy is that we do not genuinely invest in building the Egyptian person.",
+            "content": "The current state of the Egyptian economy is that we do not genuinely invest in building the Egyptian person... leading us to export labor abroad and import investors to work here."
+        },
+        "item3": {
+            "title": "The Book 'The People Want a New System'",
+            "excerpt": "I wrote my ideas in a very concise manner and compiled them into a small 52-page book titled 'The People Want a New System'.",
+            "content": "I wrote my ideas in a very concise manner and compiled them into a small 52-page book titled 'The People Want a New System', registered with the Egyptian Book House under deposit number 3704/2012."
+        }
+    }
+}
